@@ -1,0 +1,14 @@
+/* body{
+    background-color: rgb(193, 204, 188);
+} */
+.categories img{
+    width: 100px;
+}
+@media screen and (max-width: 600px) {
+    .responsive{
+        flex-direction: column-reverse;
+    }
+    #subscribe{
+        text-align: center;
+    }
+    }
